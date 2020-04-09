@@ -1,12 +1,12 @@
-# Strapi Starter Next Blog
+# Strapi + NextJs (SSG) + Graphql Starter Project
 
-Next starter for creating a blog with Strapi.
+Next starter for creating a sites with Strapi.
 
 This starter allows you to try Strapi with Next.js with the example of a simple blog. It is fully customizable and due to the fact that it is open source, fully open to contributions. Do not hesitate to add new features etc ...
 
-You may want to know how to develop such a starter by your own! This starter is actually the result of this [tutorial](https://strapi.io/blog/build-a-blog-with-next-react-js-strapi-and-apollo)
+This Starter Project is not using Apollo instead its using Grapql and SSG for static generation files.
 
-![screenshot image](/screenshot.png)
+If you want to use the Apollo version of this starter? Please go to: https://github.com/strapi/strapi-starter-next-blog
 
 ### Features
 
@@ -27,8 +27,8 @@ You may want to know how to develop such a starter by your own! This starter is 
 **Clone the repository and install dependencies**
 
 ```bash
-git clone https://github.com/strapi/strapi-starter-next-blog.git
-cd strapi-starter-next-blog
+git clone https://github.com/Davidcreador/strapi-starter-next-graphql.git
+cd strapi-starter-next-graphql
 
 # Using yarn
 yarn setup:yarn
